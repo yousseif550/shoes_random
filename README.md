@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+LINK TO THE API'S SNEACKER 
+    --IF 'TO MANY REQUEST' CREATE NEW ACCOUNT TO HAVE A API KEY
+[https://rapidapi.com/tg4-solutions-tg4-solutions-default/api/v1-sneakers/]
 
 ## Available Scripts
 

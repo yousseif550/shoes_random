@@ -78,7 +78,11 @@ return (
       <Row className="card-example d-flex flex-row flex-nowrap overflow-auto">
         <Card>
           <Card.Body>
-            <Card.Title className="text-muted">SNEACKER OF DAY</Card.Title>
+            <Card.Title className="text-muted">
+              SNEACKER OF DAY 
+              <br></br>
+              <Button variant="danger">ADD TO FAV</Button>
+            </Card.Title>
             <Card.Text className="text-muted">
                 {shoes?.title}
                 <br/>
