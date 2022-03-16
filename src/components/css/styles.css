@@ -1,0 +1,14 @@
+.photo {
+    height: 300px;
+    width: 400px; 
+}
+
+.shape {
+    background-color: white;
+    padding-left: 10;
+    padding-right: 15;
+    border-color: red;
+    border-width: 1;
+    border-radius: 150;
+    color: black;
+}
