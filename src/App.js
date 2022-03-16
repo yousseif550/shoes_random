@@ -1,5 +1,5 @@
 import './App.css';
-import { Fetch } from "./components/api/fetchCountry"
+import { Fetch } from "./components/api/fetchShoes"
 
 function App() {
   return (
