@@ -5,8 +5,9 @@
 
 .shape {
     background-color: white;
-    padding-left: 10;
-    padding-right: 15;
+    margin-top: 10;
+    padding: 20;
+
     border-color: red;
     border-width: 1;
     border-radius: 150;
