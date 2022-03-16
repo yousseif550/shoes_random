@@ -64,7 +64,7 @@ return (
     {/* <p>  {shoes?.media.imageUrl}</p> */}
     <img 
       className="photo"
-      src={shoes?.media.imageUrl}
+      // src={shoes?.media.imageUrl}
       alt={shoes?.title} 
       />
   </div>
